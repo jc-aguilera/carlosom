@@ -6,7 +6,7 @@
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
-  "license": "BSD-2-Clause",
+  "license": "CC-BY-NC-SA-4.0",
   "dependencies": {
     "yarn.lock": "^0.0.1-security"
   }
