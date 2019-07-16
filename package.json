@@ -2,8 +2,12 @@
   "devDependencies": {
     "vuepress": "^1.0.2"
   },
-	"scripts": {
-		"docs:dev": "vuepress dev docs",
-		"docs:build": "vuepress build docs"
-	}
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "yarn.lock": "^0.0.1-security"
+  }
 }
