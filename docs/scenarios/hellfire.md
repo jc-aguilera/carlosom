@@ -32,7 +32,7 @@ Before the boss battle
 
 By now, you should have the red jewel and the emergency power must be on. If not, follow their respective sections. Push the bookshelf next to the bust, and use the red jewel on the bust’s right. The secret hallway will open, and you will have access the lobby.
 
-## OPTIONAL: goodies inside Apple Inn
+## *Optional*: goodies inside Apple Inn
 
 Before going further, you may want to explore the hotel for goodies. I strongly recommend getting the shotgun, if you didn’t get it in the licker room. The possible shotgun locations (not counting the licker room) are as follows:
 
