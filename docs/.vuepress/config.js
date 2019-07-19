@@ -31,6 +31,17 @@ module.exports = {
 					{ text: "Desperate Times", link: "/scenarios/desperate-times" },
 					{ text: "End of the Road", link: "/scenarios/end-of-the-road" },
 				]
+			},
+			{
+				text: "Challenges",
+				items: [
+					{ text: "Elimination 1", link: "/challenges/elimination-1" }, 
+					{ text: "Elimination 2", link: "/challenges/elimination-2" }, 
+					{ text: "Elimination 3", link: "/challenges/elimination-3" }, 
+					{ text: "Showdown 1", link: "/challenges/showdown-1" }, 
+					{ text: "Showdown 2", link: "/challenges/showdown-2" }, 
+					{ text: "Showdown 3", link: "/challenges/showdown-3" }
+				]
 			}
 		],
 		sidebar: {
@@ -65,6 +76,20 @@ module.exports = {
 						"flashback",
 						"desperate-times",
 						"end-of-the-road"
+					]	
+				}
+			],
+			'/challenges/': [
+				{
+					title: "Challenges",
+					collapsable: false,
+					children: [
+						"elimination-1",
+						"elimination-2",
+						"elimination-3",
+						"showdown-1",
+						"showdown-2",
+						"showdown-3"
 					]	
 				}
 			]
