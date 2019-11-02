@@ -94,5 +94,6 @@ module.exports = {
 				}
 			]
 		}
-	}
+	},
+	theme: 'yuu'
 }
