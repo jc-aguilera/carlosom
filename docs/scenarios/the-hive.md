@@ -6,6 +6,7 @@ objectives:
     - Unlock the emergency exit in B2F. You will need to destroy the leech man, who is in possession of this key.
     - Find the padlock key and use it on the B2F boat.
     - Defeat the giant leech and escape through the sewers.
+flavorText: A hospital transformed into some kind of hive full of squirming "things." We pushed on and pushed the repulsive image from our minds.
 ---
 # The Hive
 

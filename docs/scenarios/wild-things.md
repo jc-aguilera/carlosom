@@ -5,6 +5,7 @@ objectives:
     - Turn the zoo's power back on.
     - Find two Lion Emblems to open the front gate. To do this, you will need to collect several Mr. Raccoon medals.
     - Defeat the boss - either Oscar or Max.
+flavorText: We were foolish enough to think the zoo might provide refuge, but all that greeted us were approaching footsteps that shook the earth.
 ---
 # Wild Things
 

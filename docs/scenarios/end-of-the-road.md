@@ -7,6 +7,7 @@ objectives:
     - Reach Linda down in the sewers.
     - Get inside the helicopter before it flies away.
     - If you miss the helicopter, find a truck to escape the city. You will need to defeat Nyx in order to use the truck.
+flavorText: The countdown to destruction had begun, yet hope remained. As confusion and anarchy tore the city apart, the time had come to stand up and fight.
 ---
 # End of the Road
 

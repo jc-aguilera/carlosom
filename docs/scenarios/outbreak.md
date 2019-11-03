@@ -6,6 +6,7 @@ objectives:
     - Jump into the sewers to escape from an explosion.
     - Find detonator parts, and combine them to destroy Main Street and stop the zombie hordes.
     - If Main Street is already destroyed, get inside Dorian's van.'
+flavorText: It was a typical night at J's bar. Some uninvited guests crashed the party. Our race for survival was just beginning...
 ---
 # Outbreak
 

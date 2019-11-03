@@ -7,6 +7,7 @@ objectives:
     - Defeat Gigabite.
     - Hurry to the subway car before it departs!
     - If you do not get to the subway car in time, find a way through the vents to the surface'
+flavorText: In the station, we caught our breath, but it wasn't long before we could feel them watching. All we could do then was await the inevitable.
 ---
 # Underbelly 
  

@@ -7,6 +7,7 @@ objectives:
     - Thaw the lab's upper floors. Non-Yoko characters will need to register their fingerprint in order to accomplish this.
     - Get inside the train car before time's up.
     - Defeat the G-Mutant.
+flavorText: We escaped the zombies and found our way into a frozen underground facility. What truths lie beyond the cries of pain in the distance?
 ---
 # Below Freezing Point
 

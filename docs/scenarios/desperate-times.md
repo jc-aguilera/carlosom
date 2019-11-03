@@ -4,6 +4,7 @@ objectives:
     - Open the R.P.D.'s secret exit. You will need 5 plates to do this.
     - Collect as much ammo, weapons and healing as possible, before the zombie horde breaks through.
     - Survive the siege.
+flavorText: As wave after wave of the undead surrounded the city's last bastion of justice and hope, the time had come for the ultimate decision.
 ---
 # Desperate Times
 

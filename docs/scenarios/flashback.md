@@ -6,6 +6,7 @@ objectives:
     - Defeat Dorothy.
     - Escape the hospital before it collapses.
     - If you did not make it to the hospital in time, navigate through the forest to find a large bridge.
+flavorText: An abandoned buiIding in a foggy forest. All around us were the echoes of some forgotten tragedy. Enveloped in evil, we pressed onward.
 ---
 # Flashback
 

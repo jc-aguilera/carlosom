@@ -8,6 +8,7 @@ objectives:
      - Use the V-Poison, P-Base and T-Blood to synthesize Daylight, the cure to the T-virus.
      - Escape Raccoon University before it explodes.
      - Defeat Thanatos.
+flavorText: Destruction. Darkness. We quickly raced forward knowing all well that each decision we made held newfound hope or endless despair.
 ---
 # Decisions, Decisions
 
