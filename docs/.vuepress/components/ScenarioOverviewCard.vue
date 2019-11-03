@@ -54,7 +54,7 @@ export default {
 }
 
 .captioned-image q {
-  font-size: 0.9em;
+  font-size: 0.85em;
 }
 
 .flex-column ul {
