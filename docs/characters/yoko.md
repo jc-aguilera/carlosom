@@ -1,4 +1,14 @@
+---
+characterFullName: Yoko Suzuki
+characterAge: 20
+characterOccupation: Student
+characterProfilePic: /assets/yoko_large.jpg
+characterQuote: Is it OK to trust others?
+characterBio: Claims to be a university student. A previous incident has left her with amnesia.
+---
 ### Yoko
+
+<CharacterProfileCard/>
 
 Yoko is a very weak character, being very slow, and having the lowest health out of the main cast (though she also has the slowest VG rate.) Yoko also has a slow rate of fire, so she must be played very carefully, and never in the front lines. So, why choose her?
 

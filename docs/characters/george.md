@@ -1,4 +1,15 @@
+---
+characterFullName: George Hamilton
+characterAge: 39
+characterOccupation: Surgeon
+characterProfilePic: /assets/george_large.jpg
+characterQuote: You're worse than my ex-wife!
+characterBio: A doctor working at Raccoon General Hospital. Passionate worker, and a deceptively active man.
+---
+
 ### George
+
+<CharacterProfileCard/>
 
 George is the "cleric" of the main cast. His main ability allows him to make pills from herbs, mostly recovery pills to keep the team healthy. He can also make recovery pills from medicine bases, which tend to be more common than expected. This means that you don't have to worry too much about getting hurt, as long as there are herbs around. This is accompanied with an above than average health and a regular VG rate. He's the slowest character out of the main cast, though not by a large amount, so this shouldn't be an issue.
 

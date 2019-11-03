@@ -1,4 +1,14 @@
+---
+characterFullName: David King
+characterAge: Unknown
+characterOccupation: Plumber
+characterProfilePic: /assets/david_large.jpg
+characterQuote: Night, night!
+characterBio: A reserver plumber. Much of his life is unknown.
+---
 ### David
+
+<CharacterProfileCard/>
 
 David has it all in Outbreak. High health, good firing rate and above average speed, coupled with very useful abilities, makes him a common pick in online play. He will mostly breeze along all scenarios if played right. He does require a lot of practice if you want to be a successful David player. He has no dodge, having to rely on his speed to avoid most attacks. He also has an average VG rate.
 

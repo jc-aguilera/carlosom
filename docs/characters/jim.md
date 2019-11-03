@@ -1,4 +1,15 @@
+---
+characterFullName: Jim Chapman
+characterAge: 24
+characterOccupation: Subway staff
+characterProfilePic: /assets/jim_large.jpg
+characterQuote: My life is s***!
+characterBio: A worker at Raccoon Metro. Complains a lot, and enjoys puzzles.
+---
+
 ### Jim
+
+<CharacterProfileCard/>
 
 Jim is a character based on luck. He carries a lucky coin, which he can flip to increase his critical hit rate for every consecutive heads calling. Since critical hits stagger any foe, he can be deployed on the front lines and succeed, if you got at least 3 consecutive heads. Players must be careful, though, since he has below average health, and mediocre speed, coupled with a very high virus gauge.
 

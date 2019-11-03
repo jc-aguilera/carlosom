@@ -1,4 +1,14 @@
+---
+characterFullName: Kevin Ryman
+characterAge: 31
+characterOccupation: Police officer
+characterProfilePic: /assets/kevin_large.jpg
+characterQuote: Don't underestimate Kevin Ryman!
+characterBio: An R.P.D. officer, brilliant but lazy. Applied twice to S.T.A.R.S., but got rejected both times.
+---
 ### Kevin
+
+<CharacterProfileCard/>
 
 Kevin is a character veering on the offensive side. He has an extremely fast rate of fire, has the second highest health out of the main cast, and is also the fastest vanilla character. He will usually make quick work of enemies. He does have a high VG rate, so keep that in mind.
 

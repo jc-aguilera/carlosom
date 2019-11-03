@@ -1,4 +1,14 @@
+---
+characterFullName: Mark Wilkins
+characterAge: 52
+characterOccupation: Warden
+characterProfilePic: /assets/mark_large.jpg
+characterQuote: Get over here, soldier!
+characterBio: A Vietnam veteran that works as a security guard. His family is everything to him.
+---
 ### Mark
+
+<CharacterProfileCard/>
 
 Mark is the "tank" of Outbreak. He has the highest health of the main cast by far, and he has the ability to block attacks. Blocking allows Mark to take the vast majority of enemy attacks with little to no health loss, or virus gauge increment. This is particularly useful against zombie hordes, because he will push them away after being grabbed, allowing other team members to run away safely. He does have a fast VG rate, so if the block fails, his VG will quickly raise. Being a tank, he is also slow, though he has enough speed to outrun most enemies.
 

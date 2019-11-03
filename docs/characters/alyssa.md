@@ -1,4 +1,14 @@
+---
+characterFullName: Alyssa Ashcroft
+characterAge: 28
+characterOccupation: Journalist
+characterProfilePic: /assets/alyssa_large.jpg
+characterQuote: Here's the scoop...
+characterBio: An intrepid journalist, Alyssa is always looking for a scoop.
+---
 ### Alyssa
+
+<CharacterProfileCard/>
 
 Alyssa is a very balanced character in Outbreak. While she has average health, it's just enough to always get from Danger to caution using a green herb, allowing her to escape if she's injured. She also has a slow VG rate, and above average speed
 
