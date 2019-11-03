@@ -12,6 +12,13 @@ flavorText: An abandoned buiIding in a foggy forest. All around us were the echo
 
 <ScenarioOverviewCard/>
 
+### Lockpick solutions (Alyssa)
+
+Location|Easy|Normal|Hard|Very Hard
+:---|---|---|---|---
+Locker in 1F Locker Room|I|I|P|S
+2F room with pod &#8594; 2F Hallway|-|-|P|S
+
 ## The path through the forest
 
 Approach the door to activate a cutscene with Al. Exit the cabin and go straight and to the right, relative to your character, to find a blue herb. Look for more herbs on the other side of the cabin, then exit the area through the path beneath the huge tree.

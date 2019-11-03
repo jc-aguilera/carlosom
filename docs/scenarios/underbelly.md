@@ -13,6 +13,16 @@ flavorText: In the station, we caught our breath, but it wasn't long before we c
  
 <ScenarioOverviewCard/>
 
+### Lockpick solutions (Alyssa)
+
+Location|Easy|Normal|Hard|Very Hard
+:---|---|---|---|---
+West Concourse &#8594; Employee Passage<sup>1</sup>|-|-|W|W
+East Concourse &#8594; Employee Passage<sup>1</sup>|-|-|I|P
+Employee Passage &#8594; Break room (Front)|-|-|W|I
+Employee Passage &#8594; Break room (Back)|-|-|I|I
+Drawer in Control Room|P|P|P|S
+
 ## Ticket areas and subway platform
 
 You will start either in the west or east entrance. A blood pack may spawn in the east entrance; make sure you pick it up. Go down the stairs, and explore the ticket areas for items; be sure to look in blind spots, you might find a FAS or an alcohol bottle. If you are in the east ticket gate, read the document in the trash can to unlock a drawer in a few minutes. Make sure to explore the stairs opposite of where you came from, since there may be more goodies next to the rubble. Exit to the west/east concourse.

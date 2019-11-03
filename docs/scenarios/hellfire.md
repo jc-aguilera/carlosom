@@ -10,6 +10,23 @@ flavorText: While avoiding blasts of flame, we proceeded through the smoke-encas
 
 <ScenarioOverviewCard/>
 
+### Lockpick solutions (Alyssa)
+
+Location|Easy|Normal|Hard|Very Hard
+:---|---|---|---|---
+Locker in storeroom|S|S|W|<sup>1</sup>
+Lounge stairs &#8594; 1F Apple Inn Hallway|I|I|P|S
+Bathroom in room 102|I|I|P|S
+Bathroom in room 201|S|S|<sup>2</sup>|W
+Bathroom in room 202|W|W|I|P
+
+::: danger Warning
+1. Trying to open the door to the storeroom on Very Hard will cause an explosion, putting your character in Danger.
+2. Trying to open this door on Hard will cause an explosion, putting your character in Danger.
+
+Also, opening the door next to the crow windowsill will cause an explosion as well.
+:::
+
 ## Getting inside the Apple Inn
 
 Pick up any goodies here, look at the central structure for the map, then enter the boiler room. Interact with the body for a cutscene, and pick up the handgun nearby. Now you have two options for proceeding: you can either return to the start and enter the Apple Inn corridor; if you do, skip the next two paragraphs. Or, if you enjoy risks, go up the ladder and continue through the rather straightforward path. Note that you are now in 3F. By the way, you can pick up mementos from the two dead guys, but they don't serve any real purpose in the scenario proper. Note that after the cutscene, the ladder will be broken if you exit the boiler room.

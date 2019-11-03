@@ -13,6 +13,12 @@ flavorText: The countdown to destruction had begun, yet hope remained. As confus
 
 <ScenarioOverviewCard/>
 
+### Lockpick solutions (Alyssa)
+
+Location|Easy|Normal|Hard|Very Hard
+:---|---|---|---|---
+Locker in Break Room|S|S|I|I
+
 ## Before starting
 
 The layout of this facility is very confusing, since all hallways look the same. Each time you pass through a door with a huge numbering on the side, you're switching areas. Several rooms also function as passageways between areas.

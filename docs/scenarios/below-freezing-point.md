@@ -13,6 +13,12 @@ flavorText: We escaped the zombies and found our way into a frozen underground f
 
 <ScenarioOverviewCard/>
 
+### Lockpick solutions (Alyssa)
+
+Location|Easy|Normal|Hard|Very Hard
+:---|---|---|---|---
+Break room locker|S|S|I|S
+
 ## Monica's scheme
 
 Wait for the cutscene with Monica, then go into the next room. Turn right and go up the ledge. Continue to trigger another cutscene with Monica. Go to the end of the platform for an item, then go inside the passageway next to the ledge. You will reach a broken lift. Go down, then up the long set of stairs, until you find a crawlspace; go through it.

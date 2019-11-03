@@ -14,6 +14,15 @@ flavorText: Destruction. Darkness. We quickly raced forward knowing all well tha
 
 <ScenarioOverviewCard/>
 
+### Lockpick solutions (Alyssa)
+
+Location|Easy|Normal|Hard|Very Hard
+:---|---|---|---|---
+1F Elevator room locker|S|S|S|W
+B4F T-shaped corridor &#8594; Store room|P|P|S|W
+Store room &#8594; Power puzzle room|I|I|S|W
+Control room locker|P|P|P|S
+
 ## Before starting
 
 You need two jewels to access the area where Peter is. You will also need a passcode to use the elevator later. Before you start your jewel hunt, you might want to visit the elevator passway, which is through the southwest door in 1F. There is a hidden red herb behind the glass; also, the locker closest to the elevator contains another herb.

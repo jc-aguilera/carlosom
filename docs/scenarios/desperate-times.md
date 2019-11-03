@@ -10,6 +10,16 @@ flavorText: As wave after wave of the undead surrounded the city's last bastion 
 
 <ScenarioOverviewCard/>
 
+### Lockpick solutions (Alyssa)*
+
+Location|Easy|Normal|Hard|Very Hard
+:---|---|---|---|---
+*All lockers and doors*|I|I|P|S
+
+::: tip Note
+On Easy and Normal, the Autopsy Room and 1F West Hallway are unlocked from the start
+:::
+
 ## Preparations
 
 Your character starts in one of four rooms, depending on the difficulty. In Very Hard, player 1 starts in the waiting room; player 2 starts in the east office. Player 3 starts in the parking garage, and player 4 starts in the main hall. Each player has an initial task, which will make traveling a lot easier.

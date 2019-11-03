@@ -11,6 +11,19 @@ flavorText: We were foolish enough to think the zoo might provide refuge, but al
 
 <ScenarioOverviewCard/>
 
+### Lockpick solutions (Alyssa)
+
+Location|Easy|Normal|Hard|Very Hard
+:---|---|---|---|---
+Zoo back entrance &#8594; Back Alley|P|P|S|W
+Back Alley &#8594; Restaurant|W|W|I|P
+Door to kitchen (register)|I|I|P|S
+Door to kitchen (back)|S|S|W|W
+South Concourse &#8594; East Concourse|-|-|-|I
+South Concourse &#8594; North Concourse|-|-|-|P
+East Concourse &#8594; North Concourse|-|-|W|I
+Elephant Stage &#8594; Connecting Passage|P|P|S|P
+
 ## Restaurant area
 
 Your mission in this starting area is to collect as many items as possible. The hunting rifle will make your life loads easier at the end of the scenario, so make sure to pick it up. The Mr. Raccoon medal will also make your life easier, possibly allowing you to avoid the lakeside area completely. Last but not least, the bolt cutter will allow you to go through the lion cages faster, and with a better camera angle. If for some reason you're unable to get the bolt cutter, you can read a document inside the reastaurant with instructions on how to unlock the zoo gate.

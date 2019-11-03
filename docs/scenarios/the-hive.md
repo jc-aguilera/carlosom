@@ -12,6 +12,13 @@ flavorText: A hospital transformed into some kind of hive full of squirming "thi
 
 <ScenarioOverviewCard/>
 
+### Lockpick solutions (Alyssa)
+
+Location|Easy|Normal|Hard|Very Hard
+:---|---|---|---|---
+Locker in 1F Locker Room|P|P|P|S
+Drawer in 1F Office|W|W|I|I
+
 ## Dr. Hursh
 
 You start in room 301. If you try to exit this room, Dr. Hursh will tell you this hospital is anything but safe. Follow him and turn left. Pick up the green herb, then enter room 302. Open the drawer between the beds for a stick, before opening a locker in the corner. When you pick up the handgun inside the locker, a strange creature, the leech man, will appear. Throw the stick at the creature to stun it, then quickly exit the room. Now enter the room in front of the elevator, and approach the fallen crate to activate a cutscene; the elevator is now operative. Go to the area Dr. Hursh was, and pick up a blood pack and a hemostat. For a quick ending of this scenario, ride the elevator to B1F, and skip the next three paragraphs. Otherwise, go on.

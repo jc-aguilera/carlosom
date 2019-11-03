@@ -12,6 +12,21 @@ flavorText: It was a typical night at J's bar. Some uninvited guests crashed the
 
 <ScenarioOverviewCard/>
 
+### Lockpick solutions (Alyssa)
+
+Location|Easy|Normal|Hard|Very Hard
+:---|---|---|---|---
+J's Bar &#8594; Stairs to break room<sup>1</sup>|I|I|P|S
+Break room &#8594; stairs to liquor room<sup>2</sup>|P|P|P|S
+Cabinet in Drawing Room|S|S|W|W
+Storage room on rooftop<sup>3</sup>|I|I|S|P
+
+::: tip Notes
+1. This door can also be opened with the Staff Room Key
+2. This door can also be opened with the Key with a Blue Tag
+3. This door can also be opened with the Storage Room Key.
+:::
+
 ## J's bar and staff areas
 
 The following sections are kind of hectic: there is no safe spot until halfway through the scenario, save for a locker non-Mark characters may hide in.
