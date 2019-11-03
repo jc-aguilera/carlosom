@@ -1,4 +1,14 @@
+---
+scenarioPic: /assets/scenarios/wild-things.jpg
+objectives:
+    - Open the rear gate to Raccoon Zoo.
+    - Turn the zoo's power back on.
+    - Find two Lion Emblems to open the front gate. To do this, you will need to collect several Mr. Raccoon medals.
+    - Defeat the boss - either Oscar or Max.
+---
 # Wild Things
+
+<ScenarioOverviewCard/>
 
 ## Restaurant area
 

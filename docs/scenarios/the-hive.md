@@ -1,4 +1,15 @@
+---
+scenarioPic: /assets/scenarios/the-hive.jpg
+objectives:
+    - Activate the emergency power in order to use the elevator.
+    - Find a code that will allow the elevator to go to B2F, dealing with the leech man in the process.
+    - Unlock the emergency exit in B2F. You will need to destroy the leech man, who is in possession of this key.
+    - Find the padlock key and use it on the B2F boat.
+    - Defeat the giant leech and escape through the sewers.
+---
 # The Hive
+
+<ScenarioOverviewCard/>
 
 ## Dr. Hursh
 

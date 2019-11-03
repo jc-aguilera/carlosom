@@ -2,7 +2,7 @@
 characterFullName: Alyssa Ashcroft
 characterAge: 28
 characterOccupation: Journalist
-characterProfilePic: /assets/alyssa_large.jpg
+characterProfilePic: /assets/characters/alyssa_large.jpg
 characterQuote: Here's the scoop...
 characterBio: An intrepid journalist, Alyssa is always looking for a scoop.
 ---

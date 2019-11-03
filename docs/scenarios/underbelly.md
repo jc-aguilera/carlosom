@@ -1,5 +1,17 @@
+---
+scenarioPic: /assets/scenarios/underbelly.jpg
+objectives:
+    - Open the doors leading to the employee area.
+    - Descend to B2F. You will need a key that's inside a password-secured locker.
+    - Obtain both Founders' emblems. You will need to stop the leakage in B2F in the process.
+    - Defeat Gigabite.
+    - Hurry to the subway car before it departs!
+    - If you do not get to the subway car in time, find a way through the vents to the surface'
+---
 # Underbelly 
  
+<ScenarioOverviewCard/>
+
 ## Ticket areas and subway platform
 
 You will start either in the west or east entrance. A blood pack may spawn in the east entrance; make sure you pick it up. Go down the stairs, and explore the ticket areas for items; be sure to look in blind spots, you might find a FAS or an alcohol bottle. If you are in the east ticket gate, read the document in the trash can to unlock a drawer in a few minutes. Make sure to explore the stairs opposite of where you came from, since there may be more goodies next to the rubble. Exit to the west/east concourse.

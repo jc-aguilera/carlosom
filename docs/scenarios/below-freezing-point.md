@@ -1,4 +1,16 @@
+---
+scenarioPic: /assets/scenarios/below-freezing-point.jpg
+objectives:
+    - Get inside Umbrella's underground lab.
+    - Find the ingredients necessary for synthesizing V-JOLT.
+    - Destroy the giant plant's vines blocking the ladders. Gain access to B5F and B4F using the valve handle.
+    - Thaw the lab's upper floors. Non-Yoko characters will need to register their fingerprint in order to accomplish this.
+    - Get inside the train car before time's up.
+    - Defeat the G-Mutant.
+---
 # Below Freezing Point
+
+<ScenarioOverviewCard/>
 
 ## Monica's scheme
 

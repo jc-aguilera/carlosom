@@ -34,7 +34,6 @@
 </template>
 
 <script>
-import '@theme/styles/variables.styl'
 export default {
   name: "CharacterProfileCard"
 };

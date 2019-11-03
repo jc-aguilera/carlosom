@@ -1,4 +1,13 @@
+---
+scenarioPic: /assets/scenarios/desperate-times.jpg
+objectives:
+    - Open the R.P.D.'s secret exit. You will need 5 plates to do this.
+    - Collect as much ammo, weapons and healing as possible, before the zombie horde breaks through.
+    - Survive the siege.
+---
 # Desperate Times
+
+<ScenarioOverviewCard/>
 
 ## Preparations
 

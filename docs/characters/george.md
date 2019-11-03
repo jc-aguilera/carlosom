@@ -2,7 +2,7 @@
 characterFullName: George Hamilton
 characterAge: 39
 characterOccupation: Surgeon
-characterProfilePic: /assets/george_large.jpg
+characterProfilePic: /assets/characters/george_large.jpg
 characterQuote: You're worse than my ex-wife!
 characterBio: A doctor working at Raccoon General Hospital. Passionate worker, and a deceptively active man.
 ---

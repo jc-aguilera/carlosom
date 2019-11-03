@@ -1,4 +1,15 @@
+---
+scenarioPic: /assets/scenarios/flashback.jpg
+objectives:
+    - Find a way to the abandoned hospital through the forest.
+    - Use the solvent on Dorothy's three exposed pods, while avoiding the Axeman.
+    - Defeat Dorothy.
+    - Escape the hospital before it collapses.
+    - If you did not make it to the hospital in time, navigate through the forest to find a large bridge.
+---
 # Flashback
+
+<ScenarioOverviewCard/>
 
 ## The path through the forest
 

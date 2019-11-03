@@ -1,4 +1,13 @@
+---
+scenarioPic: /assets/scenarios/hellfire.jpg
+objectives:
+    - Find a red jewel, which will help reveal a secret passage later. You will need to find a silver key in the process.
+    - Activate the emergency power mechanism. You will need to find a gold key in the process.
+    - Defeat Regis Licker and escape the Apple Inn.
+---
 # Hellfire
+
+<ScenarioOverviewCard/>
 
 ## Getting inside the Apple Inn
 

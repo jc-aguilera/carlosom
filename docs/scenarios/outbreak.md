@@ -1,4 +1,15 @@
+---
+scenarioPic: /assets/scenarios/outbreak.jpg
+objectives:
+    - Escape from J's bar.
+    - Push two cars to form a barricade against enemies. Then help Raymond open a gate.
+    - Jump into the sewers to escape from an explosion.
+    - Find detonator parts, and combine them to destroy Main Street and stop the zombie hordes.
+    - If Main Street is already destroyed, get inside Dorian's van.'
+---
 # Outbreak
+
+<ScenarioOverviewCard/>
 
 ## J's bar and staff areas
 

@@ -2,7 +2,7 @@
 characterFullName: Yoko Suzuki
 characterAge: 20
 characterOccupation: Student
-characterProfilePic: /assets/yoko_large.jpg
+characterProfilePic: /assets/characters/yoko_large.jpg
 characterQuote: Is it OK to trust others?
 characterBio: Claims to be a university student. A previous incident has left her with amnesia.
 ---

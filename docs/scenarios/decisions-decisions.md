@@ -1,4 +1,17 @@
+---
+scenarioPic: /assets/scenarios/decisions-decisions.jpg
+objectives:
+     - Find two jewels to reveal a secret passage where Peter is.
+     - Find the V-Poison, by going through the subway area and exhaustion tower.
+     - Find the P-Base, by going through the sewers. Make sure to use a sealed case.
+     - Find the T-Blood, by luring Thanatos into some hanging wires.
+     - Use the V-Poison, P-Base and T-Blood to synthesize Daylight, the cure to the T-virus.
+     - Escape Raccoon University before it explodes.
+     - Defeat Thanatos.
+---
 # Decisions, Decisions
+
+<ScenarioOverviewCard/>
 
 ## Before starting
 

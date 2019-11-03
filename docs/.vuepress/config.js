@@ -94,7 +94,9 @@ module.exports = {
 					]	
 				}
 			]
+		},
+		yuu: {
+			defaultColorTheme: 'red'
 		}
-	},
-	theme: 'yuu'
+	}
 }

@@ -2,7 +2,7 @@
 characterFullName: Mark Wilkins
 characterAge: 52
 characterOccupation: Warden
-characterProfilePic: /assets/mark_large.jpg
+characterProfilePic: /assets/characters/mark_large.jpg
 characterQuote: Get over here, soldier!
 characterBio: A Vietnam veteran that works as a security guard. His family is everything to him.
 ---

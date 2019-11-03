@@ -2,7 +2,7 @@
 characterFullName: David King
 characterAge: Unknown
 characterOccupation: Plumber
-characterProfilePic: /assets/david_large.jpg
+characterProfilePic: /assets/characters/david_large.jpg
 characterQuote: Night, night!
 characterBio: A reserver plumber. Much of his life is unknown.
 ---

@@ -2,7 +2,7 @@
 characterFullName: Cindy Lennox
 characterAge: 24
 characterOccupation: Waitress
-characterProfilePic: /assets/cindy_large.jpg
+characterProfilePic: /assets/characters/cindy_large.jpg
 characterQuote: Something very strange is happening.
 characterBio: A popular waitress at J's Bar. A very kind person.
 ---

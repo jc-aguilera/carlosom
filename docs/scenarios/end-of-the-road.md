@@ -1,4 +1,16 @@
+---
+scenarioPic: /assets/scenarios/end-of-the-road.jpg
+objectives:
+    - Find a keycard to get access to the experiment room.
+    - Find an MO disk, then decrypt it to release a Tyrant. (Yes, really!)
+    - Find a higher access keycard, and escape the Umbrella facility using the underground exit.
+    - Reach Linda down in the sewers.
+    - Get inside the helicopter before it flies away.
+    - If you miss the helicopter, find a truck to escape the city. You will need to defeat Nyx in order to use the truck.
+---
 # End of the Road
+
+<ScenarioOverviewCard/>
 
 ## Before starting
 

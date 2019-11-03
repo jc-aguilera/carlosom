@@ -2,7 +2,7 @@
 characterFullName: Jim Chapman
 characterAge: 24
 characterOccupation: Subway staff
-characterProfilePic: /assets/jim_large.jpg
+characterProfilePic: /assets/characters/jim_large.jpg
 characterQuote: My life is s***!
 characterBio: A worker at Raccoon Metro. Complains a lot, and enjoys puzzles.
 ---

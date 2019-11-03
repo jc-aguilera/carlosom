@@ -2,7 +2,7 @@
 characterFullName: Kevin Ryman
 characterAge: 31
 characterOccupation: Police officer
-characterProfilePic: /assets/kevin_large.jpg
+characterProfilePic: /assets/characters/kevin_large.jpg
 characterQuote: Don't underestimate Kevin Ryman!
 characterBio: An R.P.D. officer, brilliant but lazy. Applied twice to S.T.A.R.S., but got rejected both times.
 ---
