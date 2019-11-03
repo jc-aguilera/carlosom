@@ -50,13 +50,14 @@ export default {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  text-align: center;
 }
 
 .captioned-image q {
   font-size: 0.9em;
 }
 
-.flex-column ul
-  margin-top -1em
-
+.flex-column ul {
+  margin-top: -1em;
+}
 </style>
