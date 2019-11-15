@@ -1,0 +1,46 @@
+graph Elimination_2 {
+
+graph [splines=ortho, nodesep=1] 
+node [shape=box]
+
+
+
+subgraph cluster_mainloop2 {
+    style=invisible
+    "Outside of Elephant Restaurant"
+    "Outside of R.P.D."
+    "Outside of P4 Laboratory"
+}
+
+subgraph cluster_mainloop1 {
+    style=invisible
+    "J's Bar Rooftop"
+    "B7F Experiment Room"
+    "East Main Street"
+    "Bridge to Hospital"
+}
+
+subgraph cluster_mainloop3 {
+    style=invisible
+    "1F Passage (The Hive)"
+    "Owner's Room"
+}
+
+
+
+"Outside of Elephant Restaurant" -- {"Bridge to Hospital" "Owner's Room" "Outside of R.P.D." } 
+"Outside of R.P.D." -- "Outside of P4 Laboratory"
+"Outside of P4 Laboratory" -- "East Concourse (Underbelly)"
+"East Concourse (Underbelly)" -- {"1F Passage (The Hive)" "Stairs between 1F and 2F" "Outside of Abandoned Hospital"}
+"Outside of Abandoned Hospital" -- "1F Passage B"
+"1F Passage B" -- "Lakeside Area"
+"1F Passage B" -- "J's Bar Rooftop"
+"J's Bar Rooftop" -- "B7F Experiment Room"
+"B7F Experiment Room" -- {"1F Passage (The Hive)" "East Main Street"}
+"East Main Street" -- "Bridge to Hospital"
+"Stairs between 1F and 2F" -- "Northwest Passage 3"
+"Lakeside Area" -- "Northwest Passage 3"
+"1F Passage B" -- "East Concourse (Underbelly)"
+"1F Passage (The Hive)" -- "Owner's Room"
+"Northwest Passage 3" -- "1F Passage (The Hive)"
+}

@@ -1,0 +1,41 @@
+graph Elimination_1 {
+
+graph [splines=ortho, nodesep=1] 
+node [shape=box]
+
+subgraph cluster_mainloop {
+    style=invisible
+    "University Hall"
+    "Room 30X"
+    "Warehouse"
+    "Connecting Passage"
+    "3F Nurse's Center"
+    
+}
+
+subgraph cluster_anotherloop {
+    style=invisible
+    "B7F South Passage"
+    "Break Room (Underbelly)"
+    "Lion Stage"
+    "J's Bar Break Room"
+    "Experimentation Chamber"
+    "T-Shaped Passage"
+    "B6F Control Room"
+}
+
+
+"University Hall" -- {"Room 30X" "1F Abandoned Hospital Hallway" "1F Lobby"}
+"Room 30X" -- "Warehouse"
+"Warehouse" -- "Connecting Passage"
+"Connecting Passage" -- {"3F Nurse's Center" "B7F South Passage"}
+"B7F South Passage" -- "Break Room (Underbelly)"
+"Break Room (Underbelly)" -- "Lion Stage"
+"Lion Stage" -- {"R.P.D. Rooftop" "J's Bar Break Room"}
+"J's Bar Break Room" -- {"Experimentation Chamber" "1F Abandoned Hospital Hallway" "1F Lobby"}
+"Experimentation Chamber" -- "T-Shaped Passage"
+"T-Shaped Passage" -- {"B6F Control Room" "Security Office"}
+"Security Office" -- "Cabin"
+"B6F Control Room" -- {"1F Abandoned Hospital Hallway" "Pump Room"}
+"1F Lobby" -- "B7F South Passage"
+}
