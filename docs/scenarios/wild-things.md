@@ -42,7 +42,7 @@ One member should stay outside, distracting the zombies, while the rest goes ins
 
 Players that don't enter the zoo will be automatically brought in after a while.
 
-Enter Oscar, the zombie elephant. Try to get behind him as soon as possible, so he goes into the east concourse. His attacks do a huge amount of damage, particularly the stampede attack, which does tremendous damage.
+Enter Oscar, the zombie elephant. Try to get behind him as soon as possible, so he goes into the east concourse. His attacks do a huge amount of damage, particularly the stampede attack.
 
 *If Alyssa is on the team*, she should give the bolt cutter to another member, if she is currently holding it. Then she should proceed to unlock the area's three locked doors. If she is not on the team, shoulder tackle the two locked doors in the area. If you need some firepower, go to the east concourse and push the green cart to get some ammo. Mark can push the cart by himself; otherwise, two people are needed.
 
@@ -98,4 +98,4 @@ When he roars while lightly standing on his back feet, attack him with your stro
 
 If Oscar is dead or caged, you will fight Max. He is accompanied by two lionesses, which make this battle much harder than necessary. Max has the exact same attack pattern as lionesses, which means he can put you on Bleed, and also one-hit kill you. Try to deal with the lionesses first to make your life easier. If you don't mind a bit of cheating, be the first to enter the boss arena, activate the battle, then exit immediately: the lioness on the platform roof will not go down.
 
-After dealing a certain amount of damage, Max will jump to the platform roof, regaining some health. You can avoid this by stunning him before the jump, either with a tackle/Kevin's kick, or by dealing a critical hit. Keep shooting him and he will eventually die; the rifle does a good job, but be careful not to attack Max in his invincibility frames, i.e.: while jumping or preparing his IK attack. After Max dies, approach the platform to end the level.
+After dealing a certain amount of damage, Max will jump to the platform roof, regaining some health. You can avoid this by stunning him before the jump, either with a tackle/Kevin's kick, or by dealing a critical hit. Keep shooting him and he will eventually die; the rifle does a good job, but be careful not to attack Max in his invincibility frames, *i.e.*: while jumping or preparing his IK attack. After Max dies, approach the platform to end the level.
