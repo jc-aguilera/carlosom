@@ -27,6 +27,22 @@ Bathroom in room 202|W|W|I|P
 Also, opening the door next to the crow windowsill will cause an explosion as well.
 :::
 
+### Codes for the level
+
+<table>
+<thead>
+<tr><th style="text-align: left;">Location</th><th colspan="4">Codes</th></tr>
+</thead>
+<tbody>
+<tr><td>Safe in Room 101</td><td>JIA</td><td>BAE</td><td>GGF</td><td>DCH</td></tr>
+<tr><td>Door to Security Room</td><td>2287</td><td>6354</td><td>5128</td><td>0721</td></tr>
+</tbody>
+</table>
+
+::: tip Notes
+The codes for the safe and security room go in pairs, that is, if _e.g._: the safe code is BAE, the code for the security room door is 6354. These can be input at any moment (no need to read the corresponding files.)
+:::
+
 ## Getting inside the Apple Inn
 
 Pick up any goodies here, look at the central structure for the map, then enter the boiler room. Interact with the body for a cutscene, and pick up the handgun nearby. Now you have two options for proceeding: you can either return to the start and enter the Apple Inn corridor; if you do, skip the next two paragraphs. Or, if you enjoy risks, go up the ladder and continue through the rather straightforward path. Note that you are now in 3F. By the way, you can pick up mementos from the two dead guys, but they don't serve any real purpose in the scenario proper. Note that after the cutscene, the ladder will be broken if you exit the boiler room.

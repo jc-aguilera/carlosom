@@ -15,9 +15,38 @@ flavorText: We escaped the zombies and found our way into a frozen underground f
 
 ### Lockpick solutions (Alyssa)
 
+
 Location|Easy|Normal|Hard|Very Hard
 :---|---|---|---|---
 Break room locker|S|S|I|S
+
+### Codes for the level
+
+<table>
+<thead>
+<tr><th style="text-align: left;">Location</th><th colspan="3">Codes</th></tr>
+</thead>
+<tbody>
+<tr><td>Chemical Storage Room tanks</td><td>0634</td><td>4509</td><td>9741</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr><th style="text-align: left;">B5F Control Room codes</th><th colspan="3">Codes</th></tr>
+</thead>
+<tbody>
+<tr><td>Door to B5F Computer Room</td><td>C582</td><td>A375</td><td>J126</td></tr>
+<tr><td>Shutter to B4F Culture Room</td><td>A194</td><td>B482</td><td>D580</td></tr>
+<tr><td>Turntable countdown (after thaw)</td><td colspan="3" style="text-align: center;">HOPE</td></tr>
+</tbody>
+</table>
+
+::: tip Notes
+The codes in the control room go in pairs, that is, if _e.g._: one of the codes is C582, the other one is A194. The code for the VP-017 in the chemical storage room is independent of this set.
+
+Also, note that the first two pair of codes can be input at any moment, however, the turntable countdown code will only work after you watch the cutscene where the train is thawed.
+:::
 
 ## Monica's scheme
 

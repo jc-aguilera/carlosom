@@ -23,6 +23,21 @@ B4F T-shaped corridor &#8594; Store room|P|P|S|W
 Store room &#8594; Power puzzle room|I|I|S|W
 Control room locker|P|P|P|S
 
+### Codes for the level
+
+<table>
+<thead>
+<tr><th style="text-align: left;" colspan="4">Elevator codes</th></tr>
+</thead>
+<tbody>
+<tr><td>4161</td><td>4284</td><td>4032</td><td>4927</td></tr>
+</tbody>
+</table>
+
+::: tip Note
+These codes can be input as soon as the cutscene with Peter ends. The elevator won't allow you to input anything before then.
+:::
+
 ## Before starting
 
 You need two jewels to access the area where Peter is. You will also need a passcode to use the elevator later. Before you start your jewel hunt, you might want to visit the elevator passway, which is through the southwest door in 1F. There is a hidden red herb behind the glass; also, the locker closest to the elevator contains another herb.
