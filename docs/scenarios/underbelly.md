@@ -23,6 +23,35 @@ Employee Passage &#8594; Break room (Front)|-|-|W|I
 Employee Passage &#8594; Break room (Back)|-|-|I|I
 Drawer in Control Room|P|P|P|S
 
+### Control room drawer
+
+::: tip A little help
+These patterns may help you read the code for the drawer more easily:
+- 2 letters &#8594; 1
+- 3 letters &#8594; 7
+- 5 letters &#8594; 0
+- 3 letters, 2 letters &#8594; 4
+- 4 letters, 2 letters &#8594; 3
+- 5 letters, 2 letters &#8594; 8
+- 6 letters &#8594; 2, 5, 6 or 9
+  - If second letter comes after the first in alphabetical order &#8594; 2
+  - If first two letters are between I and P &#8594; 9
+
+Example:
+```
+A B R Q   I J
+    C D T
+    F V
+P O G H X W
+```
+- First row has 4 letters, 2 letters &#8594; 3
+- Second row has 3 letters &#8594; 7
+- Third row has 2 letters &#8594; 1
+- Fourth row has 6 letters, first two letters are between I and P &#8594; 9
+
+Thus, in this case, the drawer code is 3719.
+:::
+
 ## Ticket areas and subway platform
 
 You will start either in the west or east entrance. A blood pack may spawn in the east entrance; make sure you pick it up. Go down the stairs, and explore the ticket areas for items; be sure to look in blind spots, you might find a FAS or an alcohol bottle. If you are in the east ticket gate, read the document in the trash can to unlock a drawer in a few minutes. Make sure to explore the stairs opposite of where you came from, since there may be more goodies next to the rubble. Exit to the west/east concourse.
