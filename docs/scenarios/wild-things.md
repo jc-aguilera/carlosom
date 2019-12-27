@@ -24,6 +24,14 @@ South Concourse &#8594; North Concourse|-|-|-|P
 East Concourse &#8594; North Concourse|-|-|W|I
 Elephant Stage &#8594; Connecting Passage|P|P|S|P
 
+### Mr. Raccoon Medal locations
+
+::: tip Gallery
+
+Take a look at this [gallery](https://imgur.com/a/FQsoHH0) for possible Mr. Raccoon medal locations.
+
+*Addendum*: Upstairs of the lion cages, the medal actually spawns **left** of the door, not on the right, as the screenshot suggests.
+::: 
 ## Restaurant area
 
 Your mission in this starting area is to collect as many items as possible. The hunting rifle will make your life loads easier at the end of the scenario, so make sure to pick it up. The Mr. Raccoon medal will also make your life easier, possibly allowing you to avoid the lakeside area completely. Last but not least, the bolt cutter will allow you to go through the lion cages faster, and with a better camera angle. If for some reason you're unable to get the bolt cutter, you can read a document inside the reastaurant with instructions on how to unlock the zoo gate.
