@@ -20,7 +20,7 @@ module.exports = {
 	],
 	theme: 'yuu',
 	themeConfig: {
-		logo: '/icons/gator112.png',
+		logo: '/assets/page_icon/gator112.png',
 		nav: [
 			{
 				text: "Characters",
