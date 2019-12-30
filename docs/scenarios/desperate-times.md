@@ -20,12 +20,21 @@ Location|Easy|Normal|Hard|Very Hard
 On Easy and Normal, the Autopsy Room and 1F West Hallway are unlocked from the start
 :::
 
+### Codes for the level
+Location|Code
+:---|---
+Jean's Desk (east office)<sup>1</sup>|0325
+
+<small><sup>1</sup>Kevin only</small>
+
 ## Preparations
 
 Your character starts in one of four rooms, depending on the difficulty. In Very Hard, player 1 starts in the waiting room; player 2 starts in the east office. Player 3 starts in the parking garage, and player 4 starts in the main hall. Each player has an initial task, which will make traveling a lot easier.
 
 ### Player 1
-Push the crate *three times*, then wait for player 4 to take the Ace key from the cabinets. Then, player 4 must *push the box four times*, and give player 1 the Ace Key. Next, player 1 must climb the box to open the safe containing the first plate, take it and give it to player 4. Finally, player 4 must put the plate on the main hall statue, after removing the unicorn medal. If for some reason you cannot push the box, try exiting and reentering the waiting room.
+Push the crate *three times*, then wait for player 4 to take the Ace key from the cabinets. Then, player 4 must *push the box four times*, and give player 1 the Ace Key. Next, player 1 must climb the box to open the safe containing the first plate, take it and give it to player 4. Finally, player 4 must put the plate on the main hall statue, after removing the unicorn medal.
+
+If for some reason you cannot push the box, try exiting and reentering the waiting room.
 
 ### Player 2
 From the starting position, go right to the end of the hallway, then unlock the east wing door (this is the door where you use the heart key in RE2.)
