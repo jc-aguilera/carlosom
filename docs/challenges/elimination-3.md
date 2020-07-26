@@ -2,6 +2,8 @@
 
 ## Overview
 
+*You start at J's Bar (Outbreak.)*
+
 The real deal. Lots of hunters (beta and gamma,) lions, bees and lickers will make your life hell. To make matters worse, some rooms are booby-trapped, just like End of the Road. Be very careful!
 
 Yoko is perfect for this scenario, since she can carry lots of goodies and can deactivate mines with her dodge. Kevin with his .45 and Mark with his handgun will also be of great help.

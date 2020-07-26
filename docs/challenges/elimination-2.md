@@ -2,6 +2,8 @@
 
 ## Overview
 
+*You start at the outside of Elephant Restaurant (Wild Things.)*
+
 Also known as *Poison Alley,* this challenge will keep you on your toes. Lots of powerful weaponry, including the coveted Grenade Launcher with fire rounds. Yes, fire rounds!
 
 But there are also **tons** of enemies that are able to poison, and some others that can instakill. Bees, scissortails, bites and web spinners are around every corner.

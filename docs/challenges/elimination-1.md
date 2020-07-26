@@ -2,6 +2,8 @@
 
 ## Overview
 
+*You start in the University Hall (Decisions, Decisions.)*
+
 Mostly zombies and hornbills, and the occasional licker/dog. You will usually get some handguns at start, but there's a particular seed that provides 4 *empty* Assault Rifles. This is the most dangerous seed, since it can be a while before getting hands on a AR clip.
 
 Use melee as much as possible. David will make great use of batteries, concrete stones and iron pipes, while Mark will be very useful with his upgraded melee. Alyssa and Kevin will also be very useful with their potshots, especially from the Magnum handgun.

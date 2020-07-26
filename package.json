@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "vuepress": "^1.2.0"
+    "vuepress": "^1.5.2"
   },
   "scripts": {
     "docs:dev": "vuepress dev docs",
@@ -8,7 +8,7 @@
   },
   "license": "CC-BY-NC-SA-4.0",
   "dependencies": {
-    "vuepress-theme-yuu": "^2.2.0",
+    "vuepress-theme-yuu": "^2.3.0",
     "yarn.lock": "^0.0.1-security"
   }
 }
