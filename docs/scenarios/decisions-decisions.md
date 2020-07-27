@@ -1,7 +1,7 @@
 ---
 scenarioPic: /assets/scenarios/decisions-decisions.jpg
 objectives:
-     - Find two jewels to reveal a secret passage where Peter is.
+     - Find two jewels to reveal a secret passage where Peter is...working?
      - Find the V-Poison, by going through the subway area and exhaustion tower.
      - Find the P-Base, by going through the sewers. Make sure to use a sealed case.
      - Find the T-Blood, by luring Thanatos into some hanging wires.

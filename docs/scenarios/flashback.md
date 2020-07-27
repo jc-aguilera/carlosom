@@ -2,9 +2,8 @@
 scenarioPic: /assets/scenarios/flashback.jpg
 objectives:
     - Find a way to the abandoned hospital through the forest.
-    - Use the solvent on Dorothy's three exposed pods, while avoiding the Axeman.
-    - Defeat Dorothy.
-    - Escape the hospital before it collapses.
+    - Find some syringes, fill them with solvent, and use them on Dorothy's three exposed pods, while avoiding the Axeman.
+    - Defeat the now vulnerable Dorothy, and escape the hospital before it collapses.
     - If you did not make it to the hospital in time, navigate through the forest to find a large bridge.
 flavorText: An abandoned buiIding in a foggy forest. All around us were the echoes of some forgotten tragedy. Enveloped in evil, we pressed onward.
 ---
@@ -55,7 +54,7 @@ After the cutscene, the words CAUTION will start blinking on the screen. You now
 
 ## What if I was left behind?
 
-If the breaking bridge cutscene plays before you make it to the suspension bridge, you will have to finish the scenario using this alternative route. Zombies in the forest will disappear, and scissortails will take their place. Scissortails in File 2 are extremely dangerous, attacking almost immediately after seeing you. They can put your character in Poison, Bleed...or both! The following paragraphs assume you are inside the cabin when the cutscene starts.
+If the breaking bridge cutscene plays before you make it to the suspension bridge, you will have to finish the scenario using this alternative route. Zombies in the forest will disappear, and scissortails will take their place. Scissortails in File #2 are extremely dangerous, attacking almost immediately after seeing you. They can put your character in Poison, Bleed...or both! The following paragraphs assume you are inside the cabin when the cutscene starts.
 
 ### OPTIONAL - Regan and her daughter
 

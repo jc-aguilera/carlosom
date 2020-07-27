@@ -3,7 +3,8 @@ scenarioPic: /assets/scenarios/hellfire.jpg
 objectives:
     - Find a red jewel, which will help reveal a secret passage later. You will need to find a silver key in the process.
     - Activate the emergency power mechanism. You will need to find a gold key in the process.
-    - Defeat Regis Licker and escape the Apple Inn.
+    - Use the red jewel on a secret mechanism to unveil an emergency elevator, which only works when the emergency power mechanism is active.
+    - At the hotel lobby, defeat Regis Licker and escape the Apple Inn through the main entrance.
 flavorText: While avoiding blasts of flame, we proceeded through the smoke-encased hotel. We now knew the true meaning of "Hell."
 ---
 # Hellfire

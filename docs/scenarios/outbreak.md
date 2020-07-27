@@ -3,9 +3,9 @@ scenarioPic: /assets/scenarios/outbreak.jpg
 objectives:
     - Escape from J's bar.
     - Push two cars to form a barricade against enemies. Then help Raymond open a gate.
-    - Jump into the sewers to escape from an explosion.
-    - Find detonator parts, and combine them to destroy Main Street and stop the zombie hordes.
-    - If Main Street is already destroyed, get inside Dorian's van.'
+    - Jump into Raccoon City's sewers to escape from an explosion.
+    - Find some detonator parts, and combine them to destroy Main Street and stop the zombie hordes.
+    - Should Main Street be already destroyed, you will need to get inside Dorian's van.
 flavorText: It was a typical night at J's bar. Some uninvited guests crashed the party. Our race for survival was just beginning...
 ---
 # Outbreak
@@ -33,7 +33,7 @@ The following sections are kind of hectic: there is no safe spot until halfway t
 
 Search the bar and restrooms for any useful items, then approach the locked door right of the kitchen. If you happened to come across a key with a red tag, unlock this door now. If not, Alyssa can use her lockpicks, and Mark can empty his handgun to force open the door. Other characters may also have come across a fully loaded handgun; don’t hesitate to use it for forcing the door open. Now go through the door, and up the stairs to the staff room. Be careful while picking up the green herb by the window: a zombie may break through.
 
-Ignore Will’s room, and continue past some wooden planks. If you want to temporarily halt the zombies, look for a nail gun, located by following the left wall, and use it on the planks to build a barricade. You can also explore the locker room for a key, and the drawing room for ammo. During your explorations, if you happen to find a lighter, keep it so you can make Molotov cocktails later. Your next task is to unlock the door leading to the stairs to 3F; Alyssa can easily pick the lock. If you still have some handgun ammo left, you can force open the door on the right wall. You could also tackle this door, but the zombies will make it a hassle. Otherwise, you will have to look for a key, which may spawn inside the room on the far right, or under the newspaper in the table next to the sofa. Use it to unlock the door, then go on.
+Ignore Will’s room (you don't have time nor weaponry,) and continue past some wooden planks. If you want to temporarily halt the zombies, look for a nail gun, located by following the left wall, and use it on the planks to build a barricade. You can also explore the locker room for a key, and the drawing room for ammo. During your explorations, if you happen to find a lighter, keep it so you can make Molotov cocktails later. Your next task is to unlock the door leading to the stairs to 3F; Alyssa can easily pick the lock. If you still have some handgun ammo left, you can force open the door on the right wall. You could also tackle this door, but the zombies will make it a hassle. Otherwise, you will have to look for a key, which may spawn inside the room on the far right, or under the newspaper in the table next to the sofa. Use it to unlock the door, then go on.
 
 ## Liquor room and rooftops
 

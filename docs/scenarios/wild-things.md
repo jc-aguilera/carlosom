@@ -34,7 +34,7 @@ Take a look at this [gallery](https://imgur.com/a/FQsoHH0) for possible Mr. Racc
 ::: 
 ## Restaurant area
 
-Your mission in this starting area is to collect as many items as possible. The hunting rifle will make your life loads easier at the end of the scenario, so make sure to pick it up. The Mr. Raccoon medal will also make your life easier, possibly allowing you to avoid the lakeside area completely. Last but not least, the bolt cutter will allow you to go through the lion cages faster, and with a better camera angle. If for some reason you're unable to get the bolt cutter, you can read a document inside the reastaurant with instructions on how to unlock the zoo gate.
+Your mission in this starting area is to collect as many items as possible. The hunting rifle will make your life loads easier at the end of the scenario, so make sure to pick it up. The Mr. Raccoon medal will also make your life easier, possibly allowing you to avoid the lakeside area completely. Last but not least, the bolt cutter will allow you to go through the lion cages faster, and with a better camera angle. If for some reason you're unable to get the bolt cutter, you can read a document inside the restaurant with instructions on how to unlock the zoo gate.
 
 Other items of interest include handguns, a revolver, shotgun/revolver ammo and herbs. In particular, there are two green herbs, one blue herb and one red herb. There's also a butcher knife, which David types may find useful.
 
@@ -52,7 +52,7 @@ Players that don't enter the zoo will be automatically brought in after a while.
 
 Enter Oscar, the zombie elephant. Try to get behind him as soon as possible, so he goes into the east concourse. His attacks do a huge amount of damage, particularly the stampede attack.
 
-*If Alyssa is on the team*, she should give the bolt cutter to another member, if she is currently holding it. Then she should proceed to unlock the area's three locked doors. If she is not on the team, shoulder tackle the two locked doors in the area. If you need some firepower, go to the east concourse and push the green cart to get some ammo. Mark can push the cart by himself; otherwise, two people are needed.
+*If Alyssa is on the team*, she should give the bolt cutter to another member, if she is currently holding it. Then she should proceed to unlock the area's three locked doors. If Alyssa is not on the team, shoulder tackle the two locked doors in the area. If you need some firepower, go to the east concourse and push the green cart to get some ammo. Mark can push the cart by himself; otherwise, two people are needed.
 
 Now proceed to the service road. As soon as you enter, a lioness will jump from the bushes. Avoid it as best as possible, then follow the path to a ladder and a locked door. Go down the ladder, then up the boxes towards the small passageway. There's a herb close to the truck if you need it, but be careful not to open the truck's doors, or you will release another lioness. There may also be a revolver or a Mr. Raccoon medal on the floor close to the boxes.
 
@@ -86,7 +86,7 @@ Go through the sliding door in the connecting passage. Push the movable box upst
 
 Enter the lion stage. If you entered from the lower doors, go up the ladder to the control panel. Operate it to turn on the stage lights, and release yet another lioness. Avoid it as best as you can (the camera angles don't help here,) and collect the item in the stage's "cave."
 
-### The show animals' board house
+### Show animals' board house
 
 Enter the show animals' board house. If you entered from the first floor, go up the stairs to the control panel. Operate it to raise a wooden board, then go there to collect some items. Be very careful, as the board may fall and hurt you. Also, be careful of the lioness; fortunately, there is a very easy way to deal with her. Refer to the image for details.
 
@@ -94,7 +94,7 @@ After dealing with all sections, you should have collected and used at least 12 
 
 ## Boss battle
 
-Before starting the boss battle, you may be able to pick a couple herbs directly in front of you. Trigger the boss battle by moving around. The boss you will fight will be either Oscar the elephant, or Max the lion, depending on Oscar's status when you enter this area. If Oscar is dead or caged, skip the next two paragraphs.
+Before starting the boss battle, you may be able to pick a couple herbs directly in front of you. Trigger the boss battle by moving around the area. The boss you will fight will be either Oscar the elephant, or Max the lion, depending on Oscar's status when you enter this area. If Oscar is dead or caged, skip the next two paragraphs.
 
 ### Oscar, the zombie elephant
 

@@ -2,10 +2,10 @@
 scenarioPic: /assets/scenarios/below-freezing-point.jpg
 objectives:
     - Get inside Umbrella's underground lab.
-    - Find the ingredients necessary for synthesizing V-JOLT.
-    - Destroy the giant plant's vines blocking the ladders. Gain access to B5F and B4F using the valve handle.
-    - Thaw the lab's upper floors. Non-Yoko characters will need to register their fingerprint in order to accomplish this.
-    - Get inside the train car before time's up.
+    - Find the ingredients necessary for synthesizing V-JOLT. Use it to destroy the giant plant's vines blocking the ladders.
+    - Gain access to B5F and B4F using the valve handle after destroying the giant plant.
+    - Thaw the lab's upper floors. Non-Yoko characters will need to register their fingerprint at the control room in B5F (the moth room in classic RE2) in order to accomplish this.
+    - Get inside the train car before time's up!
     - Defeat the G-Mutant.
 flavorText: We escaped the zombies and found our way into a frozen underground facility. What truths lie beyond the cries of pain in the distance?
 ---
