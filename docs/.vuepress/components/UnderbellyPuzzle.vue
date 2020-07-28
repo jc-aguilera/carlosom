@@ -61,7 +61,7 @@ export default {
       initialValues: {
         'Very Hard': [
           [9, 2, 0, 4, 7],
-          [7, 2, 0, 4, 9],
+          [7, 0, 2, 4, 9],
         ],
         'Hard': [
           [9, 0, 4, 2, 7],
