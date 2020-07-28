@@ -72,6 +72,8 @@ Follow the wall on your character's right and enter the light brown door, avoidi
 
 You will notice a yellow emblem has appeared outside the pump room. If you already fixed the leakage, pick the Founders' Emblem (Werner) now, leaving the valve handle behind. In any case, return to the room where you first found the valve handle, and use the switch there to active the emergency power supply. Exit the room and return to the employee area. From now on, it is very important that you do not approach the subway car. If you do, you will trigger a cutscene and the level will be filled with fleas, which will make your second trip to the pump room very difficult.
 
+<UnderbellyPuzzle/>
+
 After you enter the employee area, follow the right wall (your character's left), to find another control panel room. Quickly solve the puzzle and pick up whatever item is there left of the panel. Exit this room, then enter the now unlocked door next to the one that leads to the stairwell. Inside the storage room, pick up any goodies and push the heavy box to the right; If Mark is not on the team, you will need two people; pick up the weapon here. If David already fixed the leakage in B2F, you can now proceed to the platform, activate the cutscene, and use the first emblem; skip the next paragraph.
 
 If you haven't fixed the leakage yet, pick up the duct tape inside the storage room, the return to the B2F passway. Enter the pump room and use the duct tape to fix the leakage. Now go up the steps, pick up the valve handle, and use it on the pump. Exit the room and pick up the Founders' Emblem (Werner) if you haven't already. Return to the employee area, and go to the platform. Activate the cutscene and use the emblem on the subway car's right side.
