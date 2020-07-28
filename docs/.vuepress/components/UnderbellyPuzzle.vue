@@ -6,9 +6,13 @@
           {{ p.text }}
         </option>
       </select>
+      <button @click="variation = variation">Reset</button>
     </div>
     <div class="puzzle-container">
-      <div v-for="(data, i) in panelData" class="panel">
+      <div v-for="(data, i) in panelData" :key="i"
+        class="panel"
+        @click="() => onClick(i)"
+        >
         <div class="current-value">
           {{ currentValues[i] || '&nbsp;'}}
         </div>
@@ -77,14 +81,14 @@ export default {
     };
   },
   mounted() {
-    this.currentValues = this.puzzleOptions[this.selectedVariation].values;
+    this.currentValues = [...this.puzzleOptions[this.variation].values];
   },
   computed: {
     variation: {
       get() { return this.selectedVariation; },
       set(v) {
         this.selectedVariation = v;
-        this.currentValues = this.puzzleOptions[v].values;
+        this.currentValues = [...this.puzzleOptions[v].values];
       }
     },
     puzzleOptions() {
@@ -99,6 +103,15 @@ export default {
             values: this.initialValues[e][1],
           }
         ]).reduce((p, c) => [...p, ...c]);
+    },
+  },
+  methods: {
+    onClick(index) {
+      const indexOfEmpty = this.currentValues.indexOf(0);
+      if (this.panelData[index].connections.includes(indexOfEmpty)) {
+        this.$set(this.currentValues, indexOfEmpty, this.currentValues[index]);
+        this.$set(this.currentValues, index, 0);
+      }
     },
   },
 };
@@ -130,6 +143,7 @@ div
       display flex
       flex-direction column
       align-items center
+      cursor pointer
 
       div
         width 100%
