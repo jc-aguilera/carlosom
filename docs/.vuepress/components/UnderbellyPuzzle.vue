@@ -31,6 +31,7 @@
       <div class="wire wire-0-2" />
       <div class="wire wire-1-3-1" />
       <div class="wire wire-1-3-2" />
+      <div class="wire wire-1-3-3" />
       <div class="wire wire-2-3" />
       <div class="wire wire-3-4" />
       <div class="wire wire-0-4" />
@@ -142,16 +143,27 @@ div
     padding-bottom 2em
 
   .puzzle-container
-    width 90%
+    width 100%
+    --panel-width 2.7em
     display grid
-    grid-template-columns 3fr repeat(4, 4fr 3fr)
+    grid-template-columns var(--panel-width) repeat(4, 1fr var(--panel-width))
     grid-template-rows repeat(6, 2fr) 
     justify-content space-between
     max-height 28em
 
+    @media (min-width 400px)
+      --panel-width 3.7em
+
+    @media (min-width 720px)
+      --panel-width 4em
+    
+    @media (min-width 960px)
+      --panel-width 4.5em
+
     .wire
+      --border-width 5px
       position relative
-      border 5px solid yellow
+      border var(--border-width) solid yellow
       border-image repeating-linear-gradient(45deg, goldenrod 0.1em, goldenrod 0.9em, teal 1.1em, teal 1.9em, goldenrod 2.1em)
       border-image-slice 1
       z-index -1
@@ -160,7 +172,7 @@ div
         grid-area 2 / 2 / 3 / 4
         top 50%
         left 0
-        width 75%
+        width calc(100% - var(--panel-width) / 2 + var(--border-width))
         height 50%
         border-bottom 0
         border-left 0
@@ -169,32 +181,42 @@ div
         grid-area 1 / 1 / 2 / 6
         top 25%
         left 2.25em
-        width calc(100% - 3em + 2.5px)
+        width calc(100% - 3em + var(--border-width) / 2)
         height 75%
         border-bottom 0
       
       &.wire-1-3-1
-        grid-area 5 / 3 / 7 / 8
+        grid-area 5 / 4 / 7 / 6
         top 0
-        left 2.25em
-        width calc(100% - 4.5em - 2.25em - 2em)
+        left 0
+        width calc(100% + var(--border-width))
         height 75%
         border-top 0
+        border-left 0
       
       &.wire-1-3-2
-        grid-area 5 / 6 / 4 / 7
+        grid-area 5 / 5 / 4 / 7
         top 50%
-        left calc(100% - 2em - 1.25px)
-        width 2em
+        left var(--panel-width)
+        width calc(100% - var(--panel-width))
         height 50%
         border-bottom 0
+        border-right 0
+
+      &.wire-1-3-3
+        grid-area 7 / 3 / 5 / 4
+        top 0
+        left calc(var(--panel-width) / 2 - var(--border-width) / 2)
+        width calc(100% - var(--panel-width) / 2 + var(--border-width) / 2)
+        height 75%
+        border-top 0
         border-right 0
 
       &.wire-2-3
         grid-area 3 / 5 / 1 / 8
         top 3em
         left 2.25em
-        width calc(100% - 3em + 2.5px)
+        width calc(100% - 3em + var(--border-width) / 2)
         height calc(100% - 3em)
         border-bottom 0
 
@@ -202,20 +224,20 @@ div
         grid-area 3 / 7 / 1 / 10
         top 20%
         left 1.25em
-        width calc(100% - 3em + 2.5px)
+        width calc(100% - 3em + var(--border-width) / 2)
         height 80%
         border-bottom 0
 
       &.wire-0-4
         grid-area 6 / 1 / 4 / 10
         top 0
-        left 2.25em
-        width calc(100% - 4.5em + 2.5px)
+        left calc(var(--panel-width) / 2)
+        width calc(100% - var(--panel-width) + var(--border-width) / 2)
         height 100%
         border-top 0
 
     .panel
-      width 4.5em
+      width 100%
       box-sizing unset
       border 2px solid
       display flex
