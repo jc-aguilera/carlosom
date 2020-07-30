@@ -10,7 +10,7 @@
     </div>
     <div class="puzzle-container">
       <div v-for="(data, i) in panelData" :key="i"
-        class="panel"
+        :class="['panel', `panel-${i}`]"
         @click="() => onClick(i)"
         >
         <div class="current-value">
@@ -27,6 +27,13 @@
           {{ currentValues[i] + data.baseValue }}
         </div>
       </div>
+      <div class="wire wire-0-1" />
+      <div class="wire wire-0-2" />
+      <div class="wire wire-1-3-1" />
+      <div class="wire wire-1-3-2" />
+      <div class="wire wire-2-3" />
+      <div class="wire wire-3-4" />
+      <div class="wire wire-0-4" />
     </div>
   </div>
 </template>
@@ -104,6 +111,9 @@ export default {
           }
         ]).reduce((p, c) => [...p, ...c]);
     },
+    darkTheme() {
+      return localStorage.getItem('dark-theme');
+    },
   },
   methods: {
     onClick(index) {
@@ -133,17 +143,101 @@ div
 
   .puzzle-container
     width 90%
-    display flex
+    display grid
+    grid-template-columns 3fr repeat(4, 4fr 3fr)
+    grid-template-rows repeat(6, 2fr) 
     justify-content space-between
+    max-height 28em
+
+    .wire
+      position relative
+      border 5px solid yellow
+      border-image repeating-linear-gradient(45deg, goldenrod 0.1em, goldenrod 0.9em, teal 1.1em, teal 1.9em, goldenrod 2.1em)
+      border-image-slice 1
+      z-index -1
+
+      &.wire-0-1
+        grid-area 2 / 2 / 3 / 4
+        top 50%
+        left 0
+        width 75%
+        height 50%
+        border-bottom 0
+        border-left 0
+
+      &.wire-0-2
+        grid-area 1 / 1 / 2 / 6
+        top 25%
+        left 2.25em
+        width calc(100% - 3em + 2.5px)
+        height 75%
+        border-bottom 0
+      
+      &.wire-1-3-1
+        grid-area 5 / 3 / 7 / 8
+        top 0
+        left 2.25em
+        width calc(100% - 4.5em - 2.25em - 2em)
+        height 75%
+        border-top 0
+      
+      &.wire-1-3-2
+        grid-area 5 / 6 / 4 / 7
+        top 50%
+        left calc(100% - 2em - 1.25px)
+        width 2em
+        height 50%
+        border-bottom 0
+        border-right 0
+
+      &.wire-2-3
+        grid-area 3 / 5 / 1 / 8
+        top 3em
+        left 2.25em
+        width calc(100% - 3em + 2.5px)
+        height calc(100% - 3em)
+        border-bottom 0
+
+      &.wire-3-4
+        grid-area 3 / 7 / 1 / 10
+        top 20%
+        left 1.25em
+        width calc(100% - 3em + 2.5px)
+        height 80%
+        border-bottom 0
+
+      &.wire-0-4
+        grid-area 6 / 1 / 4 / 10
+        top 0
+        left 2.25em
+        width calc(100% - 4.5em + 2.5px)
+        height 100%
+        border-top 0
 
     .panel
-      width 15%
+      width 4.5em
       box-sizing unset
       border 2px solid
       display flex
       flex-direction column
       align-items center
       cursor pointer
+      height 100%
+
+      &.panel-0
+        grid-area 2 / 1 / 4 / 2
+
+      &.panel-1
+        grid-area 3 / 3 / 5 / 4
+
+      &.panel-2
+        grid-area 2 / 5 / 4 / 6
+
+      &.panel-3
+        grid-area 3 / 7 / 5 / 8
+
+      &.panel-4
+        grid-area 2 / 9 / 4 / 10
 
       div
         width 100%
@@ -162,6 +256,7 @@ div
       .total-value
         padding 0.25em 0
         font-size 1.5em
+        height 100%
 
       .total-value-not-10
         background-color darkred
@@ -170,5 +265,8 @@ div
       .total-value-10
         background-color green
         color white
+
+.yuu-theme-dark .container .puzzle-container .wire
+  border-image-source repeating-linear-gradient(45deg, yellow 0.1em, yellow 0.9em, coral 1.1em, coral 1.9em, yellow 2.1em)
 
 </style>
