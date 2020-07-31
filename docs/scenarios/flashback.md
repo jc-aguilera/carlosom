@@ -5,7 +5,7 @@ objectives:
     - Find some syringes, fill them with solvent, and use them on Dorothy's three exposed pods, while avoiding the Axeman.
     - Defeat the now vulnerable Dorothy, and escape the hospital before it collapses.
     - If you did not make it to the hospital in time, navigate through the forest to find a large bridge.
-flavorText: An abandoned buiIding in a foggy forest. All around us were the echoes of some forgotten tragedy. Enveloped in evil, we pressed onward.
+flavorText: An abandoned building in a foggy forest. All around us were the echoes of some forgotten tragedy. Enveloped in evil, we pressed onward.
 ---
 # Flashback
 
@@ -30,7 +30,7 @@ Continue across the bridge to the next area, picking up any goodies you might ne
 
 Follow the hallway and turn left: you will activate a cutscene where Axeman appears. Quickly go past him, the open the door at the end. Take a sharp turn right to avoid the green zombie attack, then carefully proceed to break the box with a shoulder tackle. If you see a needle, pick it up; otherwise check the drawers next to the door and get the solvent-filled syringe. Return to the hallway, and continue until you find a set of stairs.
 
-*If David is on the team, he should already have a lighter*, saving you a bit of backtraking; continue past the stairs through another door, and skip the next paragraph.
+*If David is on the team, he should already have a lighter*, saving you a bit of backtracking; continue past the stairs through another door, and skip the next paragraph.
 
 *If you don't yet have a lighter*, go up to the second floor, avoiding the Axeman's attacks. Follow the wall on your left, ignoring the first two doors you will come across, until you find a wooden crate. Tackle it and obtain the goodies underneath. Then enter the door closest to the vines blocking the rest of the hallway. You will find a red protrusion inside one of the walls; use your solvent-filled syringe on it to activate a cutscene. Now return to the hallway, and you will see the vines are no longer blocking the way. Continue to the end of the hallway, avoiding a stray vine, if it's there. At the end of the hallway, you will find two doors; unlock the right door, and exchange your empty syringe for a full one laying around this area, if there is one. Now enter the left door, then immediately exit to avoid the two green zombies. Wait for them to break the door open, then enter this room again. Go to the bed in front of you to obtain a lighter. If you don't yet have a solvent-filled syringe, you will find one on the bed next to the entrance. Return to the first floor, and follow the right wall to find a door and go through it.
 

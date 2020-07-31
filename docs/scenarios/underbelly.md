@@ -74,7 +74,7 @@ You will notice a yellow emblem has appeared outside the pump room. If you alrea
 
 <UnderbellyPuzzle/>
 
-After you enter the employee area, follow the right wall (your character's left), to find another control panel room. This room contains a very entertaining puzzle: you need to switch the number on the panels so as to add 10 in each of them. You can only move a number which is connected to the panel which currently has no number. You can practice around in this lil' gadget; there are two patters per difficulty level.
+After you enter the employee area, follow the right wall (your character's left), to find another control panel room. This room contains a very entertaining puzzle: you need to switch the number on the panels so as to add 10 in each of them. You can only move a number which is connected to the panel which currently has no number. You can practice around in this lil' gadget; there are two patterns per difficulty level.
 
 Quickly solve the puzzle and pick up whatever item is there left of the panel. Exit this room, then enter the now unlocked door next to the one that leads to the stairwell. Inside the storage room, pick up any goodies and push the heavy box to the right; If Mark is not on the team, you will need two people; pick up the weapon here. If David already fixed the leakage in B2F, you can now proceed to the platform, activate the cutscene, and use the first emblem; skip the next paragraph.
 

@@ -37,7 +37,7 @@ Ignore Will’s room (you don't have time nor weaponry,) and continue past some 
 
 ## Liquor room and rooftops
 
-Enter the liquor room. You can go inside the wine cellar for an alcohol bottle and a FAS. By this time, the zombies will proably have invaded the staff room, and are probably making their way to the liquor room. There are two ways to proceed to the next area: either break open the shutter, or get the forklift key to raise a crate and crawl through a safe path.
+Enter the liquor room. You can go inside the wine cellar for an alcohol bottle and a FAS. By this time, the zombies will probably have invaded the staff room, and are probably making their way to the liquor room. There are two ways to proceed to the next area: either break open the shutter, or get the forklift key to raise a crate and crawl through a safe path.
 
 In case you decide to break open it, note that the shutter is the second most durable doorway in both games combined. There is an exploit to let the zombies force open the shutter instead; check this [clip](https://clips.twitch.tv/ObliqueYummyPieDoritosChip) for details. Otherwise, use any weapons or shoulder tackle the shutter; don't bother with Molotov cocktails, though, since they do little damage to doorways. In any case, go past the shutter, and upstairs; skip the next paragraph.
 
