@@ -1,13 +1,13 @@
 <template>
   <div :style="{
     display: 'flex',
-    width: '100%',
     justifyContent: 'center',
     alignItems: 'center'}">
     <div :style="{
+      '--square-width': '4em',
       display: 'grid',
-      gridTemplateColumns: 'repeat(4, minmax(auto, 120px))',
-      gridTemplateRows: 'repeat(4, minmax(auto, 120px))',
+      gridTemplateColumns: 'repeat(4, var(--square-width))',
+      gridTemplateRows: 'repeat(4, var(--square-width))',
       alignItems: 'center',
       justifyItems: 'center',
       gridGap: 0}">
