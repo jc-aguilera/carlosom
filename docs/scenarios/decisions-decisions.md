@@ -92,6 +92,8 @@ The next area is one of the hardest in File 1, especially if you were unlucky an
 
 If you don't have the AR, or if Alyssa is not here/isn't able to pick the lock, go through the crawlspace. A pesky bee will start attacking you. If you still got the pesticide spray, or any other weapon, attack the bee until it dies or disappears (you will stop hearing its buzz). The drop-down-and-climb technique used on Hellfire will most likely not work here, since bees are so fast. Advance through the narrow pipe and enter the crawlspace here.
 
+<ElectricalPuzzle scenario="decisions-decisions"/>
+
 Look for a movable bookcase next to the locked door; as long as you're pushing it, you're invulnerable. Quickly enter the revealed crawlspace, and solve the puzzle here to turn on the power on the cooling tower. Unlock the door, if the zombies didn't already, then exit and return to the T-intersection. Now you have a choice: you can either return to the elevator, or continue through the emission tower. If you chose the latter, skip the next paragraph.
 
 If you choose to return after returning power to the emission tower, complete the optional [pier](#optional-the-pier) section above if you haven't already, then enter the back square's second door on the northwest. Pick up some anti virus pills, then enter the emission tower. Go down the stairs, and obtain a V-Poison from the hive; now return, enter the university and go inside the elevator.

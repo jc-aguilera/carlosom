@@ -73,7 +73,10 @@ Enter the 1F hallway. This area should be familiar for those that opted out of t
 Find and enter room 204, located next to a set of stairs you've probably used before. Take note of the map on the wall, particularly the unlit numbers. You will need to enter certain hotel rooms, and activate a mechanism inside, to turn all lights on. Switches 1, 2 and 3 are located in 1F, close to the stairway. Switch 3 is inside room 104 (the closest room to the stairs) switch 1 is in room 102 (next to the simple-locked door,) and switch 1 is in room 103 (room in between.) Look for goodies when solving the puzzle, but mind the zombies. Refer to the figure for more details.
 
 When the entire map in room 204 is lit, a secret compartment will open on the opposite side. Take the gold key here, and some other goodies you might deem useful. Now, return to the licker hallway in 1F. If you didn’t unlock the silver key door, you will need to get there the long way; follow the instructions on the start of this section. In the licker hallway, go north, opposite the silver key door, and unlock the door on the wall with the gold key. There are some herbs nearby, but remember to walk so as to not alert the lickers. Enter the door you just unlocked, and solve the rather simple puzzle to activate the emergency power. Make your way back to the security office, via owner's room.
-Before the boss battle
+
+<ElectricalPuzzle scenario="hellfire"/>
+
+## Before the boss battle
 
 By now, you should have the red jewel and the emergency power must be on. If not, follow their respective sections. Push the bookshelf next to the bust, and use the red jewel on the bust’s right. The secret hallway will open, and you will have access the lobby.
 
