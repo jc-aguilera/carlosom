@@ -28,7 +28,7 @@ Dispose of the licker minions (which revive after a short while,) then attack Re
 
 The lighter spawns here. You can now make up to 10 Molotov cocktails! Other useful items include the first AR, the second survival knife, 14 shotgun rounds, 45 handgun rounds, and several healing items.
 
-Besides the usual suspects, Thanatos can get stunlocked by means of iron pipes and hammers, so use that to your advantage. It's best to use your weaker weapons on him. And beware of his instakill move!
+Besides the usual suspects, Thanatos can get stun locked by means of iron pipes and hammers, so use that to your advantage. It's best to use your weaker weapons on him. And beware of his instakill move!
 
 ## Stage 5: Thanatos II
 
@@ -38,13 +38,13 @@ If you have the Magnum handgun, you can use it on Thanatos II to quickly dispose
 
 ## Stage 6: Oscar (Titan)
 
-Heal as needed, then go down the ladder to find 2 grenade burst rounds, the second AR, and tons of melee weapons. Remember to hit Oscar at the apex of his standing attack. You may also get lucky and stunlock him by hitting his rear.
+Heal as needed, then go down the ladder to find 2 grenade burst rounds, the second AR, and tons of melee weapons. Remember to hit Oscar at the apex of his standing attack. You may also get lucky and stun lock him by hitting his rear.
 
 ## Stage 7: Max (Stalker)
 
 If you're player 1 or 3, you'll get tackled almost immediately by the three lions. Quickly move out of their way, and pick up (7) shotgun rounds, (3) grenade burst rounds, and the fourth newspaper+bottle. There's also a red herb, most of the time being hidden by the crashed cars close to the zoo entrance.
 
-Now deal with the beasts. They can get stunlocked pretty easily with the help of the shotgun. Dispose of the two lionesses, then start attacking Max. When he goes to the station roof, try to land some (handgun) shots on him to stop his healing and make him return to the arena. Also, if you stun him before he jumps, you'll avoid his retreating+healing. Keep shooting until Max is defeated.
+Now deal with the beasts. They can get stun locked pretty easily with the help of the shotgun. Dispose of the two lionesses, then start attacking Max. When he goes to the station roof, try to land some (handgun) shots on him to stop his healing and make him return to the arena. Also, if you stun him before he jumps, you'll avoid his retreating+healing. Keep shooting until Max is defeated.
 
 ## Stage 8: Gigabite
 

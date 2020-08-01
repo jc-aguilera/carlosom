@@ -16,9 +16,9 @@ After a while, Oscar will fall.
 
 Max is accompanied by two of his girlfriends, which are as dangerous as Max himself. Players 1 and 3 have to be especially careful at the start, since all three lions will charge at them. 
 
-Try to deal with the lionesess first: two grenade rounds each should suffice. Be careful of recoil, though; the shotgun is a safer choice, but slower. 
+Try to deal with the lionesses first: two grenade rounds each should suffice. Be careful of recoil, though; the shotgun is a safer choice, but slower. 
 
-The lions don’t have any weaknesses, but they can become stunlocked with the shotgun, and also from Kevin’s and Alyssa’s potshots, even with the handgun. In addition, any character with a dodge is able to avoid the lions’ lunging attack; good reflexes are required, though. 
+The lions don’t have any weaknesses, but they can become stun locked with the shotgun, and also from Kevin’s and Alyssa’s potshots, even with the handgun. In addition, any character with a dodge is able to avoid the lions’ lunging attack; good reflexes are required, though. 
 
 When Max gets to the station roof, try to land a shot on him: if he gets hit, he will get down immediately, thereby reducing his healing. Also, it may happen Max fakes his death; stun him immediately and keep shooting. He will eventually die for real. 
 
@@ -28,7 +28,7 @@ One of the hardest battles in the entirety of Outbreak. The main difficulty come
 
 Also, the valuable bomb switch is laying around in this area; make sure to pick it up. It will make your life a lot easier on the next two battles. 
 
-Gigabite is most vulnerable when he’s standing on his rear, and gigabites come rolling. Avoid them, then shoot Gigabite for lots of damage. The rocket launcher doesn’t seem to be very effective in this battle, but you can try your luck. 
+Gigabite is most vulnerable when he’s standing on his rear, and megabites come rolling. Avoid them, then shoot Gigabite for lots of damage. The rocket launcher doesn’t seem to be very effective in this battle, but you can try your luck. 
 
 A good strategy would be choosing a sacrificial lamb to lure the megabites while the rest of the team deals with Gigabite. If George is on the team, he can use the capsule shooter loaded with antidotes to quickly deal with him. Keep attacking and Gigabite will die. 
 
