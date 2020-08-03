@@ -3,6 +3,7 @@
     width="550pt"
     height="852pt"
     viewBox="0.00 0.00 550.29 852.00"
+    preserveAspectRatio="xMidYMin meet"
   >
     <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 848)">
       <title>Elimination_1</title>
