@@ -31,4 +31,4 @@ As you can guess, Cindy is very useful with her herbs, as is George with his pil
 
 ## Map
 
-<img src="/assets/elimination_routes/elimination2.svg">
+<EliminationMap :num="2" />

@@ -30,4 +30,4 @@ Use melee as much as possible. David will make great use of batteries, concrete 
 
 ## Map
 
-<img src="/assets/elimination_routes/elimination1.svg">
+<EliminationMap :num="1" />

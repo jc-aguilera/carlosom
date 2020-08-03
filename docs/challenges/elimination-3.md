@@ -33,4 +33,4 @@ Yoko is perfect for this scenario, since she can carry lots of goodies and can d
 
 ## Map
 
-<img src="/assets/elimination_routes/elimination3.svg">
+<EliminationMap :num="3" />
