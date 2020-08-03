@@ -25,6 +25,7 @@ export default {
 
 <style lang="stylus" scoped>
 .map >>> svg
+  width 100%
   text
     font-family inherit
     font-size 0.75em

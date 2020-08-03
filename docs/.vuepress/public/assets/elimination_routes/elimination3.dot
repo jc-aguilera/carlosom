@@ -1,35 +1,50 @@
-graph Elimination_3{
+graph Elimination_3 {
 
 graph [splines=ortho, nodesep=1] 
 node [shape=box]
 
 subgraph cluster_mainloop1 {
     style=invisible
-    "J's Bar"
-    "1F Doctor's Office"
-    "Path to Observation Deck"
     "1F Apple Inn Square"
     "B4F Subway Car"
     "Stairwell (Underbelly)"
-    "Show Animals' Board House"
 }
+
 
 subgraph cluster_mainloop2 {
     style=invisible
+    "Path to Observation Deck"
+    "1F R.P.D. Office"
+    "Show Animals' Board House"
+}
+
+subgraph cluster_mainloop3 {
+    style=invisible
+    "1F Examination Room"
+    "1F Apartment"
     "B6F East Passage"
     "Stairwell (EotR)"
     "University Sewers (left)"
-    "1F Examination Room"
-    "1F Apartment"
-    "B5F Main Shaft"
+}
+
+subgraph cluster_mainloop4 {
+    style=invisible
     "University Sewers (right)"
     "B1F Parking Garage"
     "Linda Sewers"
+    "B5F Main Shaft"
+    "Pier"
     "1F Hospital Hall"
     "Room 206"
 }
 
-subgraph cluster_mainloop3 {
+subgraph cluster_mainloop5 {
+    style=invisible
+    "J's Bar"
+    "1F Doctor's Office"
+}
+
+subgraph cluster_mainloop6 {
     style=invisible
     "B2F Passage"
     "Locker Room (Flashback)"
