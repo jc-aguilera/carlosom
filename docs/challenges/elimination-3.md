@@ -8,6 +8,9 @@ The real deal. Lots of hunters (beta and gamma,) lions, bees and lickers will ma
 
 Yoko is perfect for this scenario, since she can carry lots of goodies and can deactivate mines with her dodge. Kevin with his .45 and Mark with his handgun will also be of great help.
 
+::: tip Note
+Mines do not count as defeated enemies, though they are still listed below.
+:::
 ## Enemy List
 
 - 1F Doctor's Office: 2 x Hunter (Beta)
